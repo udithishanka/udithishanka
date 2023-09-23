@@ -1,4 +1,4 @@
-[![MasterHead]()
+![MasterHeader](https://github.com/udithishanka/udithishanka/assets/107479890/eec1e080-cf9f-4bc7-a19a-c50c5b8a7fea)
 <h1 align="center">Hi 👋, I'm Udith Ishanka</h1>
 <h3 align="center">A Machine Learning Enthusiast from Sri lanka</h3>
 
