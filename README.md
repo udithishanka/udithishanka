@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udith Ishanka</h1>
-I am an enthusiastic undergraduate in the field of engineering, with a robust foundation in both machine learning and electrical engineering. I possess a profound interest in pursuing projects and research in the realms of natural language processing, computer science, data science, as well as robotics and automation.s 
+I am an enthusiastic undergraduate in the field of engineering, with a robust foundation in both machine learning and electrical engineering. I possess a profound interest in pursuing projects and research in the realms of natural language processing, computer science, data science, as well as robotics and automation \n
 
 - 📫 How to reach me **udithishanka.s@gmail.com**
 
