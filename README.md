@@ -2,6 +2,17 @@
 I am an enthusiastic undergraduate in the field of engineering, with a robust foundation in both machine learning and electrical engineering. I possess a profound interest in pursuing projects and research in the realms of natural language processing, computer science, data science, as well as robotics and automation 
 
 <h3 align="left">About Me</h3>
+
+- **Background**: I hold a degree in Electrical Engineering from the University of Moratuwa, Sri Lanka, with a specialization in Robotics and Intelligent Automation. This has equipped me with a solid foundation in the Machine Learning and AI industry.
+
+- **TechStack**:
+    - Data Science: Pandas, NumPy, Scikit-Learn
+    - Frontend Development: HTML5, CSS3, Bootstrap
+    - Backend Development: Flask, Django
+    - Database Management: MongoDB, MySQL
+    - Version Control: Git, GitHub
+    - Cloud Services: AWS, Google Cloud Platform (GCP)
+  
 <h3 align="left">Connect with me:</h3>
 
 - 📫 Email: **udithishanka.s@gmail.com**
