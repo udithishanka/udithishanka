@@ -7,7 +7,7 @@ I am an enthusiastic undergraduate in the field of engineering, with a robust fo
 
 - **TechStack**:
     - Data Science: Pandas, NumPy, Scikit-Learn
-    - Frontend Development: HTML5, CSS3, React, Javascript
+    - Frontend Development: HTML5, CSS3, React, Javascript, TypeScript
     - Backend Development: Flask, Streamlit
     - Database Management: MySQL
     - Version Control: Git, GitHub
