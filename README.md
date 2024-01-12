@@ -7,11 +7,11 @@ I am an enthusiastic undergraduate in the field of engineering, with a robust fo
 
 - **TechStack**:
     - Data Science: Pandas, NumPy, Scikit-Learn
-    - Frontend Development: HTML5, CSS3, Bootstrap
-    - Backend Development: Flask, Django
-    - Database Management: MongoDB, MySQL
+    - Frontend Development: HTML5, CSS3, React, Javascript
+    - Backend Development: Flask, Streamlit
+    - Database Management: MySQL
     - Version Control: Git, GitHub
-    - Cloud Services: AWS, Google Cloud Platform (GCP)
+    - Cloud Services: AWS, Google Cloud Platform (GCP), Azure
   
 <h3 align="left">Connect with me:</h3>
 
